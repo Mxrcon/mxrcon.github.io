@@ -1,50 +1,45 @@
 
-author = "Robert A. Petit III, PhD"
-seo_author = "Robert A. Petit III, PhD"
-description = "Bioinformatician studying bacterial genomics and developer of [Bactopia](https://bactopia.github.io/) and [Staphopia](https://staphopia.emory.edu/) workflows."
-seo_description = "Dr. Robert A. Petit III is a bioinformatician at Wyoming Public Health Laboratory and developer of the Bactopia and Staphopia workflows"
-tagline = "Dr. Robert A. Petit III is a bioinformatician at Wyoming Public Health Laboratory and developer of the Bactopia and Staphopia workflows"
-email = "robbie.petit@gmail.com"
+author = "Davi J. Marcon"
+seo_author = "Davi J. Mxrcon"
+description = "Biotechnology student and bioinformatician."
+seo_description = "Davi Marcon is a Biotechnology graduation student at UFPA ( Federal University of Pará - Brasil)"
+tagline = ""
+email = "davijosuemarcon@gmail.com"
 avatar = "/images/profile.png"
-github = "rpetit3"
-url = "https://www.robertpetit.com"
-keywords = "blog, genomics, bioinformatics, bacteria, bactopia, staphopia, nextflow"
-rss = true
+github = "mxrcon"
+url = "mxcon.me"
+keywords = "genomics, bioinformatics, bacteria, bactopia, staphopia, nextflow"
+rss = false
 lastmod = true
 favicon = "/images/github.png"
-location = "Cheyenne, WY"
+location = "Ananindeua, PA, Brasil"
 date_format = "January 2006"
-organization = "Wyoming Public Health Laboratory"
-organization_street = "208 South College Drive"
-organization_city = "Cheyenne"
-organization_state = "WY"
-organization_zip = "82002"
-group = "Microbiology Laboratories"
+organization = "UFPA - Universidade Federal do Pará"
+organization_street = "R. Augusto Corrêa, 01 - Guamá"
+organization_city = "Belém"
+organization_state = "PA"
+organization_zip = " 66075-110"
+group = "Federal University"
 
 # Social Links
 [[social]]
     site = "GitHub"
     image = "images/github.png"
-    link = "https://github.com/rpetit3"
-    user = "rpetit3"
+    link = "https://github.com/mxrcon"
+    user = "mxrcon"
 
 [[social]]
     site = "Twitter"
     image = "images/twitter.png"
-    link = "https://twitter.com/rpetit3"
-    user = "rpetit3"
+    link = "https://twitter.com/"
+    user = ""
 
 [[social]]
     site = "LinkedIn"
     image = "images/linkedin.png"
-    link = "https://www.linkedin.com/in/rpetit3"
-    user = "rpetit3"
+    link = "https://www.linkedin.com/in/"
+    user = ""
 
-[[social]]
-    site = "Impactstory"
-    image = "images/impactstory.png"
-    link = "https://profiles.impactstory.org/u/0000-0002-1350-9426"
-    user = "0000-0002-1350-9426"
 
 [[social]]
     site = "ORCID"
