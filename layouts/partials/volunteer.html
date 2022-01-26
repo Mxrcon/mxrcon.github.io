@@ -17,7 +17,7 @@
           {{- .Content -}}
         <h2>Conda Submissions</h2>
         <p>I have created {{ len $.Site.Data.volunteer.conda }} (<i>woohoo!</i>🎉) Conda recipes for the community, and I have 
-          <a href="https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Apr+involves%3Arpetit3+is%3Aclosed" target="_blank">approved several recipe submissions</a>. 
+          <a href="https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Apr+involves%3Arpetit3+is%3Aclosed" target="_blank">reviewed more than 1,000 Bioconda pull requests</a>. 
           If you have a tool 
            you would like to submit to Bioconda, but are not sure where to start, please reach out! Between the 
            <a href="https://gitter.im/bioconda/Lobby" target="_blank">Bioconda Gitter</a> and myself 
@@ -41,7 +41,7 @@
         <h2>Pull Requests</h2>
         {{ $filter_user := delimit .Params.filter_user "+-user:"}}
         {{ $github_url := printf "%s%s" .Params.github_pr_url $filter_user }}
-        {{ $merged := len (where $.Site.Data.github.data.search.edges ".node.mergedAt" "!=" nil) }}
+        {{ $merged := mul $.Site.Data.merged.data.search.issueCount 1.0 }}
         {{ $total := mul $.Site.Data.github.data.search.issueCount 1.0 }}
         {{ $percent := math.Round (mul (div $merged $total) 100) }}
         <p>I have submitted {{ $.Site.Data.github.data.search.issueCount }} pull requests (<i>{{ $percent }}% merged, yay!</i>🎉) to various open source projects. Below are my most recent pull requests. To see the full list, which also includes personal projects, please <a href="{{ .Params.github_pr_url }}" alt="Full list of Pull Requests" target="_blank">view them on Github</a>.</p>
