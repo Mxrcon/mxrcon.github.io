@@ -1,12 +1,12 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-baseURL = "https://www.robertpetit.com/"
+baseURL = "https://www.mxrcon.me/"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Robert A. Petit III, PhD"
+title = "Davi J. Marcon"
 theme = "github-style"
-googleAnalytics = "G-BSZQDCMRH9"
+googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 copyright = "&copy; Dr. Robert A. Petit III, 2020-{year}"
