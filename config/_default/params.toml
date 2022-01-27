@@ -44,14 +44,9 @@ group = "CGBS & ENGBIO"
 [[social]]
     site = "ORCID"
     image = "images/orcid.png"
-    link = "https://orcid.org/0000-0002-1350-9426"
-    user = "0000-0002-1350-9426"
+    link = "https://orcid.org/0000-0003-1014-422X"
+    user = "0000-0003-1014-422X"
 
-[[social]]
-    site = "Google Scholar"
-    image = "images/google-scholar.png"
-    link = "https://scholar.google.com/citations?user=sBSRYTkAAAAJ"
-    user = "sBSRYTkAAAAJ"
 
 # Navigation Sections
 
