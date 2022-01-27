@@ -19,7 +19,7 @@ organization_street = "R. Augusto Corrêa, 01 - Guamá"
 organization_city = "Belém"
 organization_state = "PA"
 organization_zip = " 66075-110"
-group = "Federal University"
+group = "CGBS & ENGBIO"
 
 # Social Links
 [[social]]
@@ -54,11 +54,6 @@ group = "Federal University"
     user = "sBSRYTkAAAAJ"
 
 # Navigation Sections
-[[sections]]
-    name = "Posts"
-    url = "/post/"
-    weight = 10
-    octicon = "project"
 
 [[sections]]
     name = "Publications"
