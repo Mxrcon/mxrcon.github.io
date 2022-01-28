@@ -1,10 +1,9 @@
-### Yo! 👋
+### Hey! 👋
 
-Yep, I'm using a theme that looks exactly like GitHub's! I stumbled upon it while [browsing Hugo themes](https://themes.gohugo.io/github-style/). I figured since I spend a lot of time browsing GitHub, I'd use it! I had to make quite a few modifications to the original theme so that it would be more academic oriented. Even reached out to GitHub folks early January (2021) to get the ok (*never heard back though >.>*), so here we are! Now with that out the way...
 
-Welcome and thank you for stopping by! I'm Robert Petit (*puh-teet, not pet-it*), and I currently work as a bioinformatician in the Wyoming Public Health Laboratory. My work involves building up the bioinfomatic capacity for WPHL and facilitating bioinformatic training. In my personal time I am continuing to develop [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline.
+Thank you from reaching Here! My name Is Davi, I'm a Brazilian Bioinformatician working with Microbial Genomics, Interested in Open-source driven Research, Bioinformatics, Microbiology and Genomics.
 
-- 💻 Things I use daily: [Nextflow](https://www.nextflow.io/), [Conda](https://docs.conda.io/en/latest/), Unix, Python
-- 🌱 I’m currently learning: [Github Actions](https://github.com/features/actions)
-- 💬 Ask me about: [Bactopia](https://bactopia.github.io/) and [Bioconda](https://bioconda.github.io/)
-- 🛠️ Bug or feedback? Please submit a [GitHub Issue](https://github.com/rpetit3/robertpetit.com/issues/new) (*thank you!*)
+This Templatep was adaptated from [Robert website](robertpetit.com) I loved his template and modified it with my stuff, A huge thanks to him! 
+
+- My tools for the moment: ![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)![Python](https://api.iconify.design/logos:python.svg?width=30&height=30)![R](https://api.iconify.design/logos:r-lang.svg?width=30&height=30')![bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
+
