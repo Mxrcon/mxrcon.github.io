@@ -63,12 +63,6 @@ group = "CGBS & ENGBIO"
     octicon = "code"
 
 [[sections]]
-    name = "Volunteer"
-    url = "/volunteer/"
-    weight = 5
-    octicon = "rocket"
-
-[[sections]]
     name = "About"
     url = "/about/"
     weight = 5
