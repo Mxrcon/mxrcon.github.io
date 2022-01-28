@@ -1,7 +1,9 @@
 assembly_scan:
   - downloads: 4564
     stars: 4
-
+mtbseq-nf:
+  - downloads: 0
+    stars: 0
 bactopia:
   - downloads: 13703
     stars: 124
