@@ -2,7 +2,7 @@ awards:
   - name: 2nd place for best poster presented by a young researcher (developing scientist) 
     description:  Distinction for best presentation
     organization: international Committee on Food Microbiology and Hygiene (ICFMH)
-    date: 2019
+    date: 2019-10-08
 
 education:
   - degree: Bachelor of Biotechnology
@@ -30,8 +30,6 @@ employment:
     location: Ananindeua, PA, Brasil
     start: 2021-08
     end: present
-
-
 
 presentations:
   - title: Bactopia v2 Highly scalable, portable and customizable bacterial genome analyses
