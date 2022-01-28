@@ -53,4 +53,6 @@ tbl2asn_forever:
 vcf_annotator:
   - downloads: 4140
     stars: 14
-
+mtbseq-nf:
+  - downloads: 0
+    stars: 0
