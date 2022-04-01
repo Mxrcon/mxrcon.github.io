@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mxrcon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mxrcon.me
+  * I am mxrcon (https://keybase.io/mxrcon) on keybase.
+  * I have a public key ASDBVc3xgRoojDyDrYG9o6SUY3p_GwzbxoqTQcGXa9RSFgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101432d636efafcbc5a5b885560cb87e5aa0aac943e84d67a2d523ba964b30056090a",
+      "host": "keybase.io",
+      "kid": "0120c155cdf1811a288c3c83ad81bda3a494637a7f1b0cdbc68a9341c1976bd452160a",
+      "uid": "b4d6f05bbdee73714d4ba33be70be119",
+      "username": "mxrcon"
+    },
+    "merkle_root": {
+      "ctime": 1648781414,
+      "hash": "5723d57d0fec47d71a1cc33af5084ae032f03af33ef8369bf11c949e33c2b0cc459c8403751b9523ed4b0abc27500cd35b9004d845f3e79e30fc0459883ce644",
+      "hash_meta": "751a3261753174294725a16f802e22dbca0d97f224403303248d7c4b7e8fb26d",
+      "seqno": 22202535
+    },
+    "service": {
+      "entropy": "VEkgwQVcIJJQW69mp3So8y3l",
+      "hostname": "mxrcon.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.3"
+  },
+  "ctime": 1648781474,
+  "expire_in": 504576000,
+  "prev": "8e1841e9e684d353758d5ef6b3e9d517cca75b130aa37d674c9fff178b288157",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwVXN8YEaKIw8g62BvaOklGN6fxsM28aKk0HBl2vUUhYKp3BheWxvYWTESpcCGsQgjhhB6eaE01N1jV72s+nVF8ynWxMKo31nTJ//F4sogVfEIGVNEZHQUMWJAhWLCCA0aQZrtEnBfnykAWR+oDlShpyqAgHCo3NpZ8RATPUIptZN4lvWHgA26dSKVb3CIA0PHYeAZ84jHSto/rP6oWsxZb3WU7DBtke7U+3Abm4xuo6YoveCx4EOqQFIB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEXJOdzHwIOAWmU7kpSdMobB092lm3RScAMIS13QoyRso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mxrcon
+
+==================================================================
