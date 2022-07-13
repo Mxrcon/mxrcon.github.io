@@ -22,14 +22,14 @@ employment:
   - title: Internship
     company: Biosharp OU
     location: Remote
-    start: 2021-03
-    end: 2021-08
+    start: 2021
+    end: 2021
 
   - title: Internship
     company: Evandro Chagas Institute
     location: Ananindeua, PA, Brasil
-    start: 2021-08
-    end: present
+    start: 2021
+    end: 2022
 
 presentations:
   - title: Bactopia v2 Highly scalable, portable and customizable bacterial genome analyses
