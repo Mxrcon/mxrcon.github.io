@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Davi J. Marcon</title>
-    <link>mxrcon.github.io/tags/</link>
+    <link>mxrcon.github.io/mxrcon.me/tags/</link>
     <description>Recent content in Tags on Davi J. Marcon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Dr. Robert A. Petit III, 2020-{year}</copyright><atom:link href="mxrcon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Dr. Robert A. Petit III, 2020-{year}</copyright><atom:link href="mxrcon.github.io/mxrcon.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazonia</title>
-      <link>mxrcon.github.io/tags/amazonia/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/amazonia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/amazonia/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/amazonia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic resistance</title>
-      <link>mxrcon.github.io/tags/antibiotic-resistance/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/antibiotic-resistance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/antibiotic-resistance/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/antibiotic-resistance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bactopia</title>
-      <link>mxrcon.github.io/tags/bactopia/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/bactopia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/bactopia/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/bactopia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bioconda</title>
-      <link>mxrcon.github.io/tags/bioconda/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/bioconda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/bioconda/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/bioconda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food surveillance</title>
-      <link>mxrcon.github.io/tags/food-surveillance/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/food-surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/food-surveillance/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/food-surveillance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mtbseq</title>
-      <link>mxrcon.github.io/tags/mtbseq/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/mtbseq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/mtbseq/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/mtbseq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nextflow</title>
-      <link>mxrcon.github.io/tags/nextflow/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/nextflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/nextflow/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/nextflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oyster</title>
-      <link>mxrcon.github.io/tags/oyster/</link>
+      <link>mxrcon.github.io/mxrcon.me/tags/oyster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mxrcon.github.io/tags/oyster/</guid>
+      <guid>mxrcon.github.io/mxrcon.me/tags/oyster/</guid>
       <description></description>
     </item>
     
