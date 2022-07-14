@@ -1,7 +1,7 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-baseURL = "https://www.mxrcon.me/"
+baseURL = "https://mxrcon.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Davi J. Marcon"
