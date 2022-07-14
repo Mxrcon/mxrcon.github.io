@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Davi J. Marcon</title>
+    <link>mxrcon.github.io/tags/</link>
+    <description>Recent content in Tags on Davi J. Marcon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Dr. Robert A. Petit III, 2020-{year}</copyright><atom:link href="mxrcon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazonia</title>
+      <link>mxrcon.github.io/tags/amazonia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/amazonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antibiotic resistance</title>
+      <link>mxrcon.github.io/tags/antibiotic-resistance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/antibiotic-resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bactopia</title>
+      <link>mxrcon.github.io/tags/bactopia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/bactopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioconda</title>
+      <link>mxrcon.github.io/tags/bioconda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/bioconda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food surveillance</title>
+      <link>mxrcon.github.io/tags/food-surveillance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/food-surveillance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtbseq</title>
+      <link>mxrcon.github.io/tags/mtbseq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/mtbseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextflow</title>
+      <link>mxrcon.github.io/tags/nextflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/nextflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oyster</title>
+      <link>mxrcon.github.io/tags/oyster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mxrcon.github.io/tags/oyster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
