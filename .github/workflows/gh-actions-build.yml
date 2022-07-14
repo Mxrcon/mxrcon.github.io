@@ -23,7 +23,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo -D --gc -b mxrcon.github.io
+        run: hugo -D --gc -b mxrcon.github.io/mxrcon.me/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
