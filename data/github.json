@@ -1,1 +1,1 @@
-{"data":{"search":{"issueCount":0,"edges":[]}}}
+{"data":{"search":{"issueCount":1,"edges":[{"node":{"number":978,"title":"adding new module: admixture","repository":{"nameWithOwner":"nf-core/modules"},"createdAt":"2021-10-29T00:23:53Z","mergedAt":null,"url":"https://github.com/nf-core/modules/pull/978","changedFiles":6,"additions":224,"deletions":4}}]}}}
